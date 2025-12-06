@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-patil-4351&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-patil-4351" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti-patil-4351" alt="shruti-patil-4351" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Java,Html,Css,SQL**
 
 - 👯 I’m looking to collaborate on **Web development**
@@ -14,6 +12,26 @@
 - 📫 How to reach me **shrutipatil4351@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J7a_hAA2AqJglHYHtTDBO0bQyqnZkn5p/view?usp=drivesdk](https://drive.google.com/file/d/1J7a_hAA2AqJglHYHtTDBO0bQyqnZkn5p/view?usp=drivesdk)
+
+- # Quick Start
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+- # About Rank
+
+Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
+
+| Rank       | Description                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| SSS, SS, S | You are at a hard to reach rank. You can brag.                                             |
+| AAA, AA, A | You will reach this rank if you do your best. Let's aim here first.                        |
+| B, C       | You are currently making good progress. Let's aim a bit higher.                            |
+| UNKNOWN    | You have not taken action yet. Let's act first.                                            |
+| SECRET     | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+
+**NOTE: The `UNKNOWN` rank is denoted by `?`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
