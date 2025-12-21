@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c4775f9f-dcdb-4c79-9acd-b0237dd56b81" />
+
 <h1 align="center">Hi 👋, I'm Shruti Patil</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
